@@ -1,0 +1,7 @@
+# I could inherit from this instead if I want to add a different colorscheme.
+theme = "base16_transparent"
+
+[editor]
+line-number = "relative"
+mouse = true
+  
