@@ -1,5 +1,5 @@
 # I could inherit from this instead if I want to add a different colorscheme.
-theme = "base16_transparent"
+theme = "everforest-dark"
 
 [editor]
 line-number = "relative"
