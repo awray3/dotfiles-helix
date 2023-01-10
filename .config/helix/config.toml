@@ -17,7 +17,7 @@ select = "underline"
 hidden = false
 
 [keys.normal]
-C-s = ":w" # Maps Ctrl-s to save
+# C-s = ":w" # Maps Ctrl-s to save
 "ret" = ["open_below", "normal_mode"] 
 # Maps the enter key to open_below then re-enter normal mode
 "$" = "goto_line_end"
